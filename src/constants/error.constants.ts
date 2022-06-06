@@ -1,0 +1,13 @@
+export const USER_UNAUTHORIZED_ERROR = 'Пользователь не авторизован';
+export const ALREADY_REGISTERED_ERROR = 'Такой пользователь уже был зарегестрирован';
+export const USER_EMAIL_NOT_FOUND_ERROR = 'Пользователь с таким Email не найден';
+export const WRONG_PASSWORD_ERROR = 'Неверный пароль';
+export const USER_NOT_FOUND_ERROR = 'Пользователь не найден';
+export const USERS_NOT_FOUND_ERROR = 'Пользователи не найдены';
+export const COLUMN_NOT_FOUND_ERROR = 'Колонка не найдена';
+export const COLUMNS_NOT_FOUND_ERROR = 'Колонки не найдены';
+export const CARD_NOT_FOUND_ERROR = 'Карточка не найдена';
+export const CARDS_NOT_FOUND_ERROR = 'Карточки не найдены';
+export const COMMENT_NOT_FOUND_ERROR = 'Комментарий не найден';
+export const COMMENTS_NOT_FOUND_ERROR = 'Комментарии не найдены';
+export const FORBIDDEN_ERROR = 'Запрещенное действие';
